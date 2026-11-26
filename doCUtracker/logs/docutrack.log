@@ -1,0 +1,112 @@
+2026-11-25 11:13:36,907 | INFO     | __main__ | Starting DocuTrack (development)
+2026-11-25 11:13:37,094 | INFO     | flet | Assets path configured: C:\Users\Win11\OneDrive\Documents\Quivedo\docutrack\assets
+2026-11-25 11:13:37,095 | INFO     | flet | Starting up TCP server on localhost:59973
+2026-11-25 11:13:37,104 | INFO     | flet | Flet app has started...
+2026-11-25 11:13:42,419 | INFO     | flet | App URL: tcp://localhost:59973
+2026-11-25 11:13:42,419 | INFO     | flet_desktop | Starting Flet View app...
+2026-11-25 11:13:42,423 | INFO     | flet_desktop | Downloading Flet v1.1.3 from https://github.com/flet-dev/flet/releases/download/v1.1.3/flet-windows.zip
+2026-11-25 11:13:45,323 | INFO     | flet_desktop | Extracting Flet client from C:\Users\Win11\AppData\Local\Temp\flet-windows.zip.KcAAnn8TKN to C:\Users\Win11\.flet\client\flet-desktop-full-1.1.3.daELRPYz
+2026-11-25 11:13:49,241 | INFO     | flet | App session started
+2026-11-25 11:13:49,611 | ERROR    | flet | Unhandled error in main() handler
+Traceback (most recent call last):
+  File "C:\Users\Win11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\flet\app.py", line 413, in on_session_created
+    main(session.page)
+    ~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Win11\OneDrive\Documents\Quivedo\docutrack\main.py", line 39, in main
+    border=ft.border.all(1, Palette.BORDER),
+           ^^^^^^^^^^^^^
+AttributeError: module 'flet.controls.border' has no attribute 'all'
+2026-11-25 11:17:43,649 | INFO     | flet | Session was garbage collected: JRIEWhtAsRHPWL4d
+2026-11-25 11:17:47,174 | INFO     | __main__ | Starting DocuTrack (development)
+2026-11-25 11:17:47,660 | INFO     | flet | Assets path configured: C:\Users\Win11\OneDrive\Documents\Quivedo\docutrack\assets
+2026-11-25 11:17:47,663 | INFO     | flet | Starting up TCP server on localhost:62594
+2026-11-25 11:17:47,679 | INFO     | flet | Flet app has started...
+2026-11-25 11:17:47,876 | INFO     | flet | App URL: tcp://localhost:62594
+2026-11-25 11:17:47,876 | INFO     | flet_desktop | Starting Flet View app...
+2026-11-25 11:17:47,881 | INFO     | flet_desktop | Flet client found in cache: C:\Users\Win11\.flet\client\flet-desktop-full-1.1.3
+2026-11-25 11:17:49,727 | INFO     | flet | App session started
+2026-11-25 11:17:49,998 | ERROR    | flet | Unhandled error in main() handler
+Traceback (most recent call last):
+  File "C:\Users\Win11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\flet\app.py", line 413, in on_session_created
+    main(session.page)
+    ~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Win11\OneDrive\Documents\Quivedo\docutrack\main.py", line 39, in main
+    border=ft.border.all(1, Palette.BORDER),
+           ^^^^^^^^^^^^^
+AttributeError: module 'flet.controls.border' has no attribute 'all'
+2026-11-25 11:21:17,463 | INFO     | flet | Session was garbage collected: rlzmQ4RQ5Sntsdwy
+2026-11-25 11:21:44,576 | INFO     | __main__ | Starting DocuTrack (development)
+2026-11-25 11:21:44,761 | INFO     | flet | Assets path configured: C:\Users\Win11\OneDrive\Documents\Quivedo\docutrack\assets
+2026-11-25 11:21:44,763 | INFO     | flet | Starting up TCP server on localhost:59126
+2026-11-25 11:21:44,772 | INFO     | flet | Flet app has started...
+2026-11-25 11:21:45,082 | INFO     | flet | App URL: tcp://localhost:59126
+2026-11-25 11:21:45,083 | INFO     | flet_desktop | Starting Flet View app...
+2026-11-25 11:21:45,090 | INFO     | flet_desktop | Flet client found in cache: C:\Users\Win11\.flet\client\flet-desktop-full-1.1.3
+2026-11-25 11:21:46,843 | INFO     | flet | App session started
+2026-11-25 11:23:43,300 | INFO     | flet | Session was garbage collected: rccgrcw16l8hzR9m
+2026-11-25 11:23:43,526 | INFO     | flet | App session started
+2026-11-25 11:23:44,598 | INFO     | flet | Session was garbage collected: PWfX0f2Ue0yHgA9X
+2026-11-25 11:23:44,810 | INFO     | flet | App session started
+2026-11-25 11:23:49,837 | INFO     | flet | Session was garbage collected: ebXkFQ7tANDijVt8
+2026-11-25 11:23:50,062 | INFO     | flet | App session started
+2026-11-25 11:24:39,807 | INFO     | flet | Session was garbage collected: LryB5bGNSWYt2qMq
+2026-11-25 11:24:40,027 | INFO     | flet | App session started
+2026-11-25 11:24:41,082 | INFO     | flet | Session was garbage collected: hAS8Er2HKMghZUzA
+2026-11-25 11:24:41,306 | INFO     | flet | App session started
+2026-11-25 11:24:46,349 | INFO     | flet | Session was garbage collected: 7VT4zviGlfYXiN0E
+2026-11-25 11:24:46,570 | INFO     | flet | App session started
+2026-11-25 11:25:16,612 | INFO     | flet | Session was garbage collected: TJBHhdIBuZwPhRSe
+2026-11-25 11:25:16,819 | INFO     | flet | App session started
+2026-11-25 11:26:27,768 | INFO     | flet | Session was garbage collected: i7IYGXLfrqcPwqv6
+2026-11-25 11:40:25,737 | INFO     | __main__ | Starting DocuTrack (development)
+2026-11-25 11:40:25,894 | INFO     | flet | Assets path configured: C:\Users\Win11\OneDrive\Documents\Quivedo\docutrack\assets
+2026-11-25 11:40:25,896 | INFO     | flet | Starting up TCP server on localhost:57924
+2026-11-25 11:40:25,905 | INFO     | flet | Flet app has started...
+2026-11-25 11:40:26,083 | INFO     | flet | App URL: tcp://localhost:57924
+2026-11-25 11:40:26,084 | INFO     | flet_desktop | Starting Flet View app...
+2026-11-25 11:40:26,091 | INFO     | flet_desktop | Flet client found in cache: C:\Users\Win11\.flet\client\flet-desktop-full-1.1.3
+2026-11-25 11:40:28,470 | INFO     | flet | App session started
+2026-11-25 11:42:17,403 | INFO     | flet | Session was garbage collected: MAoP2dqqisZdfVa7
+2026-11-25 11:43:36,349 | INFO     | __main__ | Starting DocuTrack (development)
+2026-11-25 11:43:36,476 | INFO     | flet | Assets path configured: C:\Users\Win11\OneDrive\Documents\Quivedo\docutrack\assets
+2026-11-25 11:43:36,477 | INFO     | flet | Starting up TCP server on localhost:57665
+2026-11-25 11:43:36,484 | INFO     | flet | Flet app has started...
+2026-11-25 11:43:36,721 | INFO     | flet | App URL: tcp://localhost:57665
+2026-11-25 11:43:36,721 | INFO     | flet_desktop | Starting Flet View app...
+2026-11-25 11:43:36,729 | INFO     | flet_desktop | Flet client found in cache: C:\Users\Win11\.flet\client\flet-desktop-full-1.1.3
+2026-11-25 11:43:38,612 | INFO     | flet | App session started
+2026-11-25 12:22:21,477 | INFO     | flet | Session was garbage collected: XcujmuMGEdpNu43U
+2026-11-25 12:22:30,606 | INFO     | __main__ | Starting DocuTrack (development)
+2026-11-25 12:22:30,877 | INFO     | flet | Assets path configured: C:\Users\Win11\OneDrive\Documents\Quivedo\docutrack\assets
+2026-11-25 12:22:30,880 | INFO     | flet | Starting up TCP server on localhost:62794
+2026-11-25 12:22:30,889 | INFO     | flet | Flet app has started...
+2026-11-25 12:22:31,013 | INFO     | flet | App URL: tcp://localhost:62794
+2026-11-25 12:22:31,013 | INFO     | flet_desktop | Starting Flet View app...
+2026-11-25 12:22:31,023 | INFO     | flet_desktop | Flet client found in cache: C:\Users\Win11\.flet\client\flet-desktop-full-1.1.3
+2026-11-25 12:22:33,835 | INFO     | flet | App session started
+2026-11-25 12:23:22,479 | INFO     | flet | Session was garbage collected: iRppkT0yOvL78K1u
+2026-11-25 12:23:30,089 | INFO     | __main__ | Starting DocuTrack (development)
+2026-11-25 12:23:30,300 | INFO     | flet | Assets path configured: C:\Users\Win11\OneDrive\Documents\Quivedo\docutrack\assets
+2026-11-25 12:23:30,302 | INFO     | flet | Starting up TCP server on localhost:62947
+2026-11-25 12:23:30,310 | INFO     | flet | Flet app has started...
+2026-11-25 12:23:30,433 | INFO     | flet | App URL: tcp://localhost:62947
+2026-11-25 12:23:30,433 | INFO     | flet_desktop | Starting Flet View app...
+2026-11-25 12:23:30,442 | INFO     | flet_desktop | Flet client found in cache: C:\Users\Win11\.flet\client\flet-desktop-full-1.1.3
+2026-11-25 12:23:32,145 | INFO     | flet | App session started
+2026-11-25 12:25:42,976 | INFO     | flet | Session was garbage collected: E2g3CtRjJ1Qk85tA
+2026-11-25 12:27:30,290 | INFO     | __main__ | Starting DocuTrack (development)
+2026-11-25 12:27:30,810 | INFO     | flet | Assets path configured: C:\Users\Win11\OneDrive\Documents\Quivedo\docutrack\assets
+2026-11-25 12:27:30,812 | INFO     | flet | Starting up TCP server on localhost:49352
+2026-11-25 12:27:30,822 | INFO     | flet | Flet app has started...
+2026-11-25 12:27:30,947 | INFO     | flet | App URL: tcp://localhost:49352
+2026-11-25 12:27:30,947 | INFO     | flet_desktop | Starting Flet View app...
+2026-11-25 12:27:30,956 | INFO     | flet_desktop | Flet client found in cache: C:\Users\Win11\.flet\client\flet-desktop-full-1.1.3
+2026-11-25 12:27:32,654 | INFO     | flet | App session started
+2026-11-26 14:41:59,659 | INFO     | __main__ | Starting DocuTrack (development)
+2026-11-26 14:42:00,160 | INFO     | flet | Assets path configured: C:\Users\Win11\OneDrive\Documents\Quivedo\docutrack\assets
+2026-11-26 14:42:00,164 | INFO     | flet | Starting up TCP server on localhost:56790
+2026-11-26 14:42:00,179 | INFO     | flet | Flet app has started...
+2026-11-26 14:42:00,367 | INFO     | flet | App URL: tcp://localhost:56790
+2026-11-26 14:42:00,367 | INFO     | flet_desktop | Starting Flet View app...
+2026-11-26 14:42:00,379 | INFO     | flet_desktop | Flet client found in cache: C:\Users\Win11\.flet\client\flet-desktop-full-1.1.3
+2026-11-26 14:42:03,640 | INFO     | flet | App session started
