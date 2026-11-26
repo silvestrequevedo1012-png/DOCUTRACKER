@@ -1,0 +1,25 @@
+# --- Application ---
+APP_NAME=DocuTrack
+APP_ENV=development
+DEBUG=true
+SECRET_KEY=quivedo2026_algo_project2026
+LOG_LEVEL=INFO
+UPLOAD_DIR=assets/documents
+
+# --- PostgreSQL ---
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=docutrack
+DB_USER=docutrack_user
+DB_PASSWORD=Jpconwi2005
+DB_POOL_SIZE=5
+DB_MAX_OVERFLOW=10
+DB_ECHO=false
+
+# --- SMTP (used in Phase 5) ---
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USER=
+SMTP_PASSWORD=
+SMTP_FROM=DocuTrack <no-reply@example.com>
+SMTP_USE_TLS=true
